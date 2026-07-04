@@ -1,0 +1,13 @@
+{
+  "name": "ghi-consolidator",
+  "version": "1.0.0",
+  "description": "Consolidates GHI data CSV files from monthly folders into a single CSV.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
