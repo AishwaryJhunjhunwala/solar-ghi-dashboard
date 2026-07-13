@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Paths
-const csvFilePath = path.join('..', 'pv task', 'consolidated_GHI.csv');
+const csvFilePath = path.join('..', 'question1', 'consolidated_GHI.csv');
 const publicDir = path.join('public');
 const jsonFilePath = path.join(publicDir, 'ghi_data.json');
 
